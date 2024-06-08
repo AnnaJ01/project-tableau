@@ -1,22 +1,22 @@
-Tableau Visualization Project - Ski Resorts in Europe 
+<h1>Tableau Visualization Project - Ski Resorts in Europe </h1>
 
-Project Overview
+<h2>Project Overview</h2>
 
 The primary aim of this project was to utilize visualization and data analysis to uncover the ideal ski destinations for enthusiasts of varying skill levels. The final product is a visually interactive dashboard created in Tableau Public, enabling users to make informed decisions easily.
 
-Data Preparation
+<h2>Data Preparation</h2>
 
 The dataset was loaded into a Pandas DataFrame using Jupyter Notebook. The data was sourced from Kaggle and is included in this Git Repository.
 
 Data cleaning steps were performed, including handling null values and ensuring uniform data formatting.
 
-Exploratory Data Analysis
+<h2>Exploratory Data Analysis</h2>
 
 Descriptive statistics, histograms, scatter plots, and bar charts were created using Matplotlib to provide an overview of the ski resort data.
 
 The analysis focused on altitude distribution, difficulty levels, ski pass price impact, and top ski destinations based on rating.
 
-Visualization and Findings
+<h2>Visualization and Findings</h2>
 
 The final product is a Tableau dashboard that includes the KPIs of the European Region in relation to ski resorts along with geospatial visualization that maps the global distribution of ski resorts, rendering the geographical context of the data.
 
@@ -30,7 +30,7 @@ Distribution of resort ratings and difficulty levels provided a way to evaluate 
 
 Top altitude ski resorts were identified, offering a valuable range of options for skiing enthusiasts.
 
-Conclusion
+<h2>Conclusion</h2>
 
 This exploratory data analysis tries to show different aspects of ski resorts in Europe, enabling skiers of different levels to make more informed decisions Interactive visualizations were created in Tableau to highlight differences among ski resorts and assist individuals in finding the most suitable one.
 
